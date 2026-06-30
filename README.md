@@ -2,7 +2,7 @@
 
 **AI Engineer | Building Production-Grade AI Systems | AI Safety Advocate**
 
-I'm a 1st-year CS student at VJIT obsessed with building AI systems that scale, fairness in machine learning, and contributing to AI safety. Currently working on production RAG systems, agentic AI, and deep learning pipelines.
+I'm a 2nd-year CS student at VJIT obsessed with building AI systems that scale, fairness in machine learning, and contributing to AI safety. Currently working on production RAG systems, agentic AI, and deep learning pipelines.
 
 ## What I'm Building
 - **CaseForge**: AI-powered educational platform (sub-3s generation, 95% validation success)
