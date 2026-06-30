@@ -1,18 +1,27 @@
-# Hi, I'm Aniketh Cheerath 👋
+# Hey, I'm Aniketh 👋
 
-Welcome to my GitHub profile.
+**AI Engineer | Building Production-Grade AI Systems | AI Safety Advocate**
 
-## About Me
-- 💻 Passionate about building practical software projects
-- 🌱 Continuously learning and improving my development skills
-- 🤝 Open to collaborating on interesting ideas and open-source work
+I'm a 1st-year CS student at VJIT obsessed with building AI systems that scale, fairness in machine learning, and contributing to AI safety. Currently working on production RAG systems, agentic AI, and deep learning pipelines.
 
-## Tech Interests
-- Programming and problem solving
-- Web and application development
-- Clean, maintainable code and continuous learning
+## What I'm Building
+- **CaseForge**: AI-powered educational platform (sub-3s generation, 95% validation success)
+- **FlashRAG**: Production RAG system (2.5s latency, 97 concurrent users)
+- **EquiLens AI**: Bias detection for ML models with explainability
+- **Antariksh**: AI exoplanet detection pipeline (ongoing)
 
-## Let's Connect
-- 📫 Reach me on GitHub by opening an issue/discussion in any repository
+##  Open Source
+- Contributed to [Microsoft PyRIT](https://github.com/microsoft/PyRIT) - AI safety & red teaming (PR #1551)
+- 100% code coverage on critical modules
 
-Thanks for visiting!
+## Tech Stack
+`Python` `FastAPI` `LangGraph` `RAG` `Deep Learning` `GCP` `Docker`
+
+## 🏆 Recent Achievements
+- **1st Place** - TechSprint Hackathon 2026 (GeoVision - Rockfall Prediction ML Pipeline)
+- **4-Star HackerRank** - Python & C
+
+## Current Focus
+AI safety, scalable backend systems, fairness in machine learning
+
+[LinkedIn](linkedin.com/in/cheerathaniketh) • [Email](cheerathaniketh@gmail.com)
