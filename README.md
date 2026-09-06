@@ -1,14 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=hey%2C+it's+Aniketh;I+ship+code+at+3am+and+regret+nothing;send+bugs%2C+not+feedback" alt="Typing SVG" />
-</h1>
+<h1 align="center">the lowdown</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvL1Vecs/giphy.gif" width="300" alt="coding gif" />
-</p>
+```
+ █████╗ ███╗   ██╗██╗
+██╔══██╗████╗  ██║██║
+███████║██╔██╗ ██║██║
+██╔══██║██║╚██╗██║██║
+██║  ██║██║ ╚████║██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
+
+<p align="center"><i>I ship code at 3am and regret nothing — send bugs, not feedback</i></p>
 
 ---
 
-### the lowdown
 
 still a CS student, running on caffeine and hackathon deadlines. build AI stuff that has to actually work by 9am the next morning or the demo dies on stage. that's the whole personality.
 
