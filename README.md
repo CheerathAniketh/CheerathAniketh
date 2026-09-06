@@ -38,7 +38,11 @@ got a PR merged into **Microsoft's PyRIT** (AI red-teaming toolkit). so somewher
 
 ### 🐍 the snake ate my commits
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CheerathAniketh/CheerathAniketh/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheerathAniketh/CheerathAniketh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheerathAniketh/CheerathAniketh/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/CheerathAniketh/CheerathAniketh/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 *(set up via the [snk](https://github.com/Platane/snk) action — auto-generates from your real contribution graph, runs on a schedule)*
