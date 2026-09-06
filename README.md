@@ -24,9 +24,7 @@ $ history | grep "2am"
 3:02am  # asleep. no you didn't see anything.
 ```
 
-
 ### what's actually cooking rn
-
 - 🌊 **OceanTrace** — taught a model to spot oil spills from satellite images (val_dice ~0.80, so it's not just vibing). SIH 2026, real problem statement, real government agency judging it, no pressure
 - 🛰️ **SatQuery Agent** — an agent that looks at satellite pics and answers questions about them. it's smarter than me at geography
 - ⚖️ **Citadel AI** — deployed a *deliberately* biased hiring model to AWS just to prove it's biased. felt like a supervillain for an afternoon
@@ -34,13 +32,11 @@ $ history | grep "2am"
 - 🪐 **Antariksh** — hunting exoplanets with a neural net because apparently regular problems weren't hard enough
 
 ### open source cameo
-
 got a PR merged into **Microsoft's PyRIT** (AI red-teaming toolkit). so somewhere in a Microsoft repo, my code is now Officially Their Problem too.
 
 ---
 
 ### 🐍 the snake ate my commits
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CheerathAniketh/CheerathAniketh/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
@@ -48,14 +44,13 @@ got a PR merged into **Microsoft's PyRIT** (AI red-teaming toolkit). so somewher
 *(set up via the [snk](https://github.com/Platane/snk) action — auto-generates from your real contribution graph, runs on a schedule)*
 
 ### stats, because apparently we need receipts
-
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CheerathAniketh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheerathAniketh&layout=compact&theme=radical&hide_border=true&count_private=true" alt="top langs" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheerathAniketh&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=CheerathAniketh&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
