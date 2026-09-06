@@ -49,8 +49,8 @@ got a PR merged into **Microsoft's PyRIT** (AI red-teaming toolkit). so somewher
 
 ### stats, because apparently we need receipts
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CheerathAniketh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheerathAniketh&layout=compact&theme=radical&hide_border=true&count_private=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-lyart-three-57.vercel.app/api?username=CheerathAniketh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-lyart-three-57.vercel.app/api/top-langs/?username=CheerathAniketh&layout=compact&theme=radical&hide_border=true&count_private=true" alt="top langs" />
 </p>
 
 <p>
