@@ -1,27 +1,33 @@
-# Hey, I'm Aniketh 👋
+### Hey, I'm Aniketh 
 
-**AI Engineer | Building Production-Grade AI Systems | AI Safety Advocate**
+AI Engineer Intern @ Sketch Brains · CS Undergrad @ VJIT · Building ML pipelines for real-world deployment
 
-I'm a 2nd-year CS student at VJIT obsessed with building AI systems that scale, fairness in machine learning, and contributing to AI safety. Currently working on production RAG systems, agentic AI, and deep learning pipelines.
+I'm a CS student who spends most of the year shipping full-stack AI systems for national hackathons (Smart India Hackathon, Ideathons) and open-source AI safety work — usually under a hard deadline, usually with a small team, usually end-to-end (model → backend → live demo).
 
-## What I'm Building
-- **CaseForge**: AI-powered educational platform (sub-3s generation, 95% validation success)
-- **FlashRAG**: Production RAG system (2.5s latency, 97 concurrent users)
-- **EquiLens AI**: Bias detection for ML models with explainability
-- **Antariksh**: AI exoplanet detection pipeline (ongoing)
+---
 
-##  Open Source
-- Contributed to [Microsoft PyRIT](https://github.com/microsoft/PyRIT) - AI safety & red teaming (PR #1551)
-- 100% code coverage on critical modules
+####  Currently building
 
-## Tech Stack
-`Python` `FastAPI` `LangGraph` `RAG` `Deep Learning` `GCP` `Docker`
+- **[OceanTrace](https://github.com/CheerathAniketh/OceanTrace)** — Oil spill detection + AIS vessel attribution pipeline for SIH 2026 (Problem Statement #26143, NTRO). U-Net (ResNet18 encoder) trained on real Sentinel-1/PALSAR SAR data (val_dice ~0.80), fused with a drift-forecast model and AIS anomaly scoring into one FastAPI service. Own the full detection module solo; backend confirmed working end-to-end against real data.
+- **[Citadel-AI](https://github.com/CheerathAniketh/Citadel-AI)** — AI governance & bias-detection platform (FastAPI + LangGraph, AWS/GCP connectors), built on top of my earlier EquiLens AI bias engine. Deployed an intentionally biased hiring model to AWS SageMaker to demo live monitoring.
+- **[ResQRoute](https://github.com/CheerathAniketh/ResQRoute)** — Rule-based disaster resource triage & allocation system with a live dashboard, built for an Ideathon under the Crisis Management theme.
+- **Antariksh** — AI exoplanet transit detection pipeline (BLS period search + PyTorch classifier) for TESS light curves. Rebuilding from scratch, clean and modular, for long-term use beyond the hackathon it started at.
 
-## 🏆 Recent Achievements
-- **1st Place** - TechSprint Hackathon 2026 (GeoVision - Rockfall Prediction ML Pipeline)
-- **4-Star HackerRank** - Python & C
+#### 🌱 Open source
 
-## Current Focus
-AI safety, scalable backend systems, fairness in machine learning
+- Contributor, **[Microsoft PyRIT](https://github.com/microsoft/PyRIT)** — AI red-teaming/safety framework. Built the harm-categories taxonomy for the Babelscape ALERT dataset fetcher; merged by core maintainers ([PR #1551](https://github.com/microsoft/PyRIT)).
 
-[LinkedIn](linkedin.com/in/cheerathaniketh) • [Email](cheerathaniketh@gmail.com)
+#### 🏆 Past projects & wins
+
+- **1st Place, TechSprint Hackathon 2026** — [GeoVision](https://github.com/CheerathAniketh/GeoVision), a rockfall-risk prediction ML pipeline for open-pit mines (Streamlit, real-time risk scoring).
+- **[EquiLens AI](https://github.com/CheerathAniketh/EquiLens-AI)** — Open-source bias-detection tool for ML datasets (SPD, Disparate Impact, Equalized Odds, SHAP explanations) — no data science background required to use it.
+- **[FlashRAG](https://github.com/CheerathAniketh/FlashRAG)** — Production-oriented RAG chatbot architected to scale to 1000+ concurrent users, ~2.5s latency.
+- **[CASE_FORGE](https://github.com/CheerathAniketh/CASE_FORGE)** — AI-generated business case study platform with automated evaluation, sub-3s generation.
+  
+#### Tech stack
+
+`Python` `FastAPI` `LangGraph` `PyTorch` `RAG` `Docker` `AWS` `GCP`
+
+#### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/CheerathAniketh) · [Kaggle](https://www.kaggle.com/cheerathaniketh) · [LeetCode](https://leetcode.com/u/CheerathAniketh/)
