@@ -1,5 +1,14 @@
 <h1 align="center">the lowdown</h1>
 
+```
+ █████╗ ███╗   ██╗██╗
+██╔══██╗████╗  ██║██║
+███████║██╔██╗ ██║██║
+██╔══██║██║╚██╗██║██║
+██║  ██║██║ ╚████║██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
+
 ```bash
 $ whoami
 Aniketh — CS student, AI Engineer Intern @ Sketch Brains
