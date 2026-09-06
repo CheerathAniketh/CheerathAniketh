@@ -1,21 +1,20 @@
 <h1 align="center">the lowdown</h1>
 
+```bash
+$ whoami
+Aniketh — CS student, AI Engineer Intern @ Sketch Brains
+
+$ cat mood.txt
+still a CS student, running on caffeine and hackathon deadlines.
+build AI stuff that has to actually work by 9am the next morning
+or the demo dies on stage. that's the whole personality.
+
+$ history | grep "2am"
+2:14am  git commit -m "it works don't touch it"
+2:47am  git commit -m "ok now it REALLY works"
+3:02am  # asleep. no you didn't see anything.
 ```
-  _|_|    _|      _|  _|_|_|  
-_|    _|  _|_|    _|    _|    
-_|_|_|_|  _|  _|  _|    _|    
-_|    _|  _|    _|_|    _|    
-_|    _|  _|      _|  _|_|_|  
-```
 
-<p align="center"><i>I ship code at 3am and regret nothing — send bugs, not feedback</i></p>
-
----
-
-
-still a CS student, running on caffeine and hackathon deadlines. build AI stuff that has to actually work by 9am the next morning or the demo dies on stage. that's the whole personality.
-
-if it's 2am and there's a green square on my contribution graph, no you didn't see anything, I was "asleep."
 
 ### what's actually cooking rn
 
