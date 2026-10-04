@@ -13,32 +13,32 @@ Second-year CS student at VJIT, Hyderabad. I build backend and ML systems in Pyt
 
 ## Skills
 
-**Languages:** Python, JavaScript, SQL
-**AI/ML:** scikit-learn, PyTorch, SHAP, LangChain, LangGraph, Gemini API, Groq
-**Backend:** FastAPI, SQLAlchemy (async), Supabase Postgres, Redis
-**Cloud:** AWS (SageMaker, S3, STS)
-**Frontend:** React, vanilla HTML/CSS/JS
-**Tools:** Docker, Git, Render
+- **Languages:** Python, JavaScript, SQL
+- **AI/ML:** scikit-learn, PyTorch, SHAP, LangChain, LangGraph, Gemini API, Groq
+- **Backend:** FastAPI, SQLAlchemy (async), Supabase Postgres, Redis
+- **Cloud:** AWS (SageMaker, S3, STS)
+- **Frontend:** React, vanilla HTML/CSS/JS
+- **Tools:** Docker, Git, Render
 
 ## Projects
 
 ### [Recoup](https://github.com/CheerathAniketh/Recoup)
 Agentic failed-payment recovery on PayPal, built with LangGraph and a FastAPI webhook.
 
-### [EquiLens-AI](https://github.com/CheerathAniketh/EquiLens-AI)
-Bias auditing for non-technical users: fairness metrics, SHAP explanations and plain-language Gemini reports. [Live demo](https://equilens-ai.onrender.com/)
-
-### [Citadel-AI](https://github.com/CheerathAniketh/Citadel-AI)
-Bias monitoring for ML models on AWS SageMaker. A LangGraph workflow computes fairness metrics from live endpoint traffic or uploaded CSVs and stores an audit trail. Tested against [Citadel-Demo-Model](https://github.com/CheerathAniketh/Citadel-Demo-Model), an intentionally biased model I deployed for it.
-
-### [Yukti](https://github.com/CheerathAniketh/Yukti)
-AI case study generator with automated evaluation of student solutions. Built during my internship at Sketch Brains.
+### [OceanTrace](https://github.com/CheerathAniketh/OceanTrace)
+Oil spill detection from Sentinel-1 SAR (U-Net), drift hindcast and forecast, and AIS vessel attribution, with a React/Leaflet dashboard.
 
 ### [Antariksh](https://github.com/CheerathAniketh/Antariksh)
 TESS light-curve pipeline: BLS transit search, planet/non-planet classifier, batman fit, FastAPI + React.
 
-### [OceanTrace](https://github.com/CheerathAniketh/OceanTrace)
-Oil spill detection from Sentinel-1 SAR (U-Net), drift hindcast and forecast, and AIS vessel attribution, with a React/Leaflet dashboard.
+### [EquiLens-AI](https://github.com/CheerathAniketh/EquiLens-AI)
+Bias auditing for non-technical users: fairness metrics, SHAP explanations and plain-language Gemini reports. [Live demo](https://equilens-ai.onrender.com/)
+
+### [Yukti](https://github.com/CheerathAniketh/Yukti)
+AI case study generator with automated evaluation of student solutions. Built during my internship at Sketch Brains.
+
+### [Citadel-AI](https://github.com/CheerathAniketh/Citadel-AI)
+Bias monitoring for ML models on AWS SageMaker. A LangGraph workflow computes fairness metrics from live endpoint traffic or uploaded CSVs and stores an audit trail. Tested against [Citadel-Demo-Model](https://github.com/CheerathAniketh/Citadel-Demo-Model), an intentionally biased model I deployed for it.
 
 ## Open source
 
@@ -49,9 +49,11 @@ Oil spill detection from Sentinel-1 SAR (U-Net), drift hindcast and forecast, an
 **Founder, Arya Labs**
 
 **AI Engineer Intern, Sketch Brains** (May to Aug 2026)
+
 Built the backend for an AI case study generator (now Yukti): FastAPI, LangGraph, async PostgreSQL, Redis.
 
 **Technical Team Member, Google Developer Groups on Campus, VJIT** (Mar 2026 to present)
+
 Event coordination and coding workshops.
 
 **Hackathons:** 1st place, TechSprint (GDGC VJIT, Apr 2026).
