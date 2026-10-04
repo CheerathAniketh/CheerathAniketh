@@ -48,6 +48,8 @@ Bias monitoring for ML models on AWS SageMaker. A LangGraph workflow computes fa
 
 **Founder, Arya Labs**
 
+Stealth mode, so no details yet. Think of it as a song I'm still writing: you'll hear it when it's done.
+
 **AI Engineer Intern, Sketch Brains** (May to Aug 2026)
 
 Built the backend for an AI case study generator (now Yukti): FastAPI, LangGraph, async PostgreSQL, Redis.
@@ -61,6 +63,8 @@ Event coordination and coding workshops.
 ## Now
 
 Building Arya Labs and studying CS fundamentals (DBMS, OS, networks, Java, OOP). Open to internship opportunities. Email is the best way to reach me.
+
+Off the keyboard: guitar and ear training.
 
 ## Contact
 
