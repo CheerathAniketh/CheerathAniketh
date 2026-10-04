@@ -68,4 +68,4 @@ Off the keyboard: guitar and ear training.
 
 ## Contact
 
-[Portfolio](https://my-portfolio-gamma-azure-60.vercel.app/) · [Resume](https://drive.google.com/file/d/1S49Nqh7NXFzHddfYjj1oYktPi8JerTw0/view?usp=sharing) · [Email](mailto:cheerathaniketh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cheerathaniketh)
+[Portfolio](https://www.cheerathaniketh.me/) · [Resume](https://drive.google.com/file/d/1S49Nqh7NXFzHddfYjj1oYktPi8JerTw0/view?usp=sharing) · [Email](mailto:cheerathaniketh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cheerathaniketh)
