@@ -58,7 +58,7 @@ Event coordination and coding workshops.
 
 ## Now
 
-Building Arya Labs and studying CS fundamentals (DBMS, OS, networks, Java, OOP). Not taking on new projects or hackathons for now.
+Building Arya Labs and studying CS fundamentals (DBMS, OS, networks, Java, OOP). Open to internship opportunities. Email is the best way to reach me.
 
 ## Contact
 
